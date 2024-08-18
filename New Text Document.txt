@@ -1,0 +1,22 @@
+Personal Note: 
+Download Git and install.
+Check Git installed properly.
+Create a folder and import it to VS code.
+Enable Git in VS code.
+Initialize Git from VS code.
+Add any file to Git.
+Check status.
+Upload the file to GitHub.
+Add another file and upload it to Git.
+Now create a branch example: branch-1 and add another file
+in this branch.
+Upload this branch to GitHub.
+Merge the branch to master.
+Add another file to this branch.
+Now switch branch to master.
+Pull the change from GitHub.
+Create another branch example branch-2 and add another file.
+Now switch to branch-1 & add something to the existing
+file of this branch.
+Now switch back to branch-2.
+Push branch 2 to GitHub and merge it.
